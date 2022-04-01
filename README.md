@@ -3,6 +3,5 @@
 Prediction of delivery within 7 days after diagnosis of early-onset preeclampsia using machine-learning models
 
 
-https://user-images.githubusercontent.com/76450160/161243215-89ed6d2a-d58e-436d-a382-8fa1915a8471.mov
-
+https://user-images.githubusercontent.com/76450160/161245228-079696e1-7909-4a13-a612-2bc6b746590a.mov
 
